@@ -1,4 +1,5 @@
 # voronoi-diagram
-# voronoi-diagram
-# voronoi-diagram
-# voronoi-diragram
+
+ideas
+- click to add points to the diagram
+- visualize the algorithm to create it
